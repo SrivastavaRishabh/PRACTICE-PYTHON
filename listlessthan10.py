@@ -4,5 +4,5 @@ for i in a:
     if i < 5:
         b.append(i)
 print(b)
-c = [i for i in a if i <5]
+c = [i for i in a if i < 5]
 print(c)
