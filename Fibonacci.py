@@ -1,5 +1,5 @@
 def fibo(num):
-    if num == 0:
+    if num <1 :
         print("Invalid response!")
     elif num == 1:
         print("1")
