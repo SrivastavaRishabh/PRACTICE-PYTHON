@@ -13,8 +13,8 @@ def play():
         elif condition == 1:
             j = m - 1
 
-        m = (i + j)//2
-        print("Is ", str(m), " your number ? \n 0 for its low \n 1 for it's high \n 2 yes it is")
+        m = (i + j)/2
+        print("Is %.2f" %(m), " your number ? \n 0 for its low \n 1 for it's high \n 2 yes it is")
         condition = int(input())
     print("It took", counter, "times to guess your number")
 
