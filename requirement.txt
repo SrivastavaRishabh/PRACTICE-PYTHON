@@ -1,0 +1,6 @@
+To run these programs following software are required :
+- OS (any)
+- Python 3.0
+- Python IDE (like Pycharm) : optional
+- bs4 and BeautifulSoup in python
+- urllib, urllib2
