@@ -10,4 +10,4 @@ for item in title:
     try:
         print(item.text.strip())
     except:
-        pass
+        print("Not Found")
